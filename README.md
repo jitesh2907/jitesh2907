@@ -43,7 +43,7 @@
 
 <div align="center">
   <!-- Top Languages Card (low cache expiry + refreshed bust query) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-ss&layout=compact&langs_count=8&theme=dracula&hide_border=false&cache_seconds=1800&v=20261020" height="165" alt="Language Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh2907&layout=compact&langs_count=8&theme=dracula&hide_border=false&cache_seconds=1800&v=20261020" height="165" alt="Language Graph" />
 </div>
 
 <br/>
@@ -52,7 +52,7 @@
 
 <div align="center">
   <!-- Streak Stats Card (refreshed cache query) -->
-  <img src="https://streak-stats.demolab.com?user=jitesh-ss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&cache_seconds=1800&v=20261020" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jitesh2907&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&cache_seconds=1800&v=20261020" height="165" alt="GitHub Streak" />
 </div>
 
 ---
